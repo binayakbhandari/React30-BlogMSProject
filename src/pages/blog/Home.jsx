@@ -6,7 +6,7 @@ import Card from './components/card/Card'
 const Home = () => {
   return (
     <Layout>
-      <div className='flex justify-center space-x-4 mt-5'>
+      <div className='flex flex-wrap justify-center space-x-4 mt-5'>
         <Card />
         <Card />
         <Card />
